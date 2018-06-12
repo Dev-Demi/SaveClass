@@ -1,0 +1,45 @@
+object TSaveClass
+  Storage = <
+    item
+      Name = 'Shkaf'
+      Parent = 0
+      Prop.Strings = (
+        'W=3000'
+        'H=1800'
+        'D=300')
+      Storage = <
+        item
+          Name = 'Sections'
+          Parent = 34442936
+          Storage = <
+            item
+              Name = 'Section1'
+              Parent = 34443016
+              Prop.Strings = (
+                'width=152')
+              Storage = <
+                item
+                  Name = 'Polka1'
+                  Parent = 34443136
+                  Prop.Strings = (
+                    'Position=450')
+                  Storage = <>
+                end
+                item
+                  Name = 'Polka2'
+                  Parent = 34443136
+                  Prop.Strings = (
+                    'Position=0')
+                  Storage = <>
+                end>
+            end
+            item
+              Name = 'Section2'
+              Parent = 34443016
+              Prop.Strings = (
+                'width=300')
+              Storage = <>
+            end>
+        end>
+    end>
+end
